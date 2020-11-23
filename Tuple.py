@@ -17,4 +17,3 @@ print(x)
 print(other)
 
 print(len(my_tuple)
-   
