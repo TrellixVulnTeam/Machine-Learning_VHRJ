@@ -9,6 +9,6 @@ includedir=/Users/arnenyeck/Desktop/machine_learning/sample_project/env/include
 Name: lz4
 Description: extremely fast lossless compression algorithm library
 URL: http://www.lz4.org/
-Version: 1.9.2
+Version: 1.9.3
 Libs: -L/Users/arnenyeck/Desktop/machine_learning/sample_project/env/lib -llz4
 Cflags: -I/Users/arnenyeck/Desktop/machine_learning/sample_project/env/include
